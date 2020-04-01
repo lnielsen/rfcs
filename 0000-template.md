@@ -1,6 +1,7 @@
 - Start Date: YYYY-MM-DD
 - RFC PR: [#<PR>](https://github.com/inveniosoftware/rfcs/pull/<PR>)
 - Authors:
+- State: DRAFT
 
 # <RFC title>
 
@@ -10,8 +11,8 @@
 
 ## Motivation
 
-> Why are we doing this? What user stories does it support? What is the expected
-outcome?
+> Why are we doing this? What user stories does it support? What is the
+expected outcome?
 
 - As a ..., I want to ..., so that I ... .
 
@@ -19,17 +20,15 @@ outcome?
 
 > This is the bulk of the RFC.
 
-> Explain the design in enough detail for somebody
-familiar with the framework to understand, and for somebody familiar with the
-implementation to implement. This should get into specifics and corner-cases,
-and include examples of how the feature is used. Any new terminology should be
-defined here.
-
+> Explain the design in enough detail for somebody familiar with the framework
+to understand, and for somebody familiar with the implementation to implement.
+This should get into specifics and corner-cases, and include examples of how
+the feature is used. Any new terminology should be defined here.
 
 ## Example
 
-> Show a concrete example of what the RFC implies. This will make the consequences
-of adopting the RFC much clearer.
+> Show a concrete example of what the RFC implies. This will make the
+consequences of adopting the RFC much clearer.
 
 > As with other sections, use it if it makes sense for your RFC.
 
@@ -63,4 +62,4 @@ on the impact of the API churn on existing apps, etc.
 ## Unresolved questions
 
 > Optional, but suggested for first drafts. What parts of the design are still
-TBD?
+TBD? Use it as a todo list for the RFC.

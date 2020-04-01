@@ -1,25 +1,17 @@
 # Invenio RFCs
 
-The purpose of an Invenio RFC (Request For Comments) is to:
+The Invenio RFC process (Request For Comments) is a communication tool with the
+purpose to:
 
 - coordinate the design process
-- produce consensus among Invenio stakeholders
 - document design decisions
+- produce consensus among Invenio stakeholders
 
-Many changes can be implemented via the normal GitHub pull request workflow
-(bug fixes and improvements), however some changes are "substantial" and we ask
-that these are written up as a RFC.
+### RFC process
 
-RFCs are per product:
+1. [Open a new issue](https://github.com/inveniosoftware/rfcs/issues/new) -
+  documenting,
 
-- [Invenio Framework](framework/)
-- [Invenio RDM](rdm/)
-- [Invenio ILS](ils/)
-
-The RFCs are not meant to be a heavy long process, but rather as an aid to
-communicate between geographically dispersed teams as well as to document
-Invenio development so that we can avoid knowledge loss when people leaves and
-ease knowledge transfer when people joins.
 
 ### When to write a RFC?
 
@@ -36,6 +28,20 @@ You do not need a RFC for:
   an official Invenio module).
 
 If in doubt, just ask on [Gitter](http://gitter.im/inveniosoftware/invenio).
+
+
+RFCs are per product:
+
+- [Invenio Framework](framework/)
+- [Invenio RDM](rdm/)
+- [Invenio ILS](ils/)
+
+The RFCs are not meant to be a heavy long process, but rather as an aid to
+communicate between geographically dispersed teams as well as to document
+Invenio development so that we can avoid knowledge loss when people leaves and
+ease knowledge transfer when people joins.
+
+
 
 ### How to submit a RFC?
 
